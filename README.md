@@ -23,8 +23,6 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 Here are some of my favorite projects:
 
 - [**GenericEFCoreHelper**](https://github.com/RehanFlipOffice/GenericEFCoreHelper) - GenericEFCoreHelper is a C# library designed to simplify and enhance the use of Entity Framework Core in .NET applications. This library provides a set of generic helper methods and extensions that streamline common database operations, making it easier to manage and interact with your data. Features include generic repository pattern, unit of work pattern, CRUD operations, query extensions, performance optimizations, and easy integration.
-- [**Project Name**](link-to-project) - Brief description of the project.
-- [**Project Name**](link-to-project) - Brief description of the project.
 
 ## GitHub Stats
 
