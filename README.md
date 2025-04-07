@@ -13,10 +13,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## My Skills
 
-- **Languages:** C#, TypeScript
-- **Frameworks:** Angular, .NET Core, .NET Framework
-- **Tools:** Git, Azure DevOps
-- **Databases:** MySQL, PostgreSQL, MongoDB, Entity Framework, MS SQL, Cosmos DB
+![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanFlipOffice&layout=compact&theme=radical)
 
 ## Projects
 
@@ -27,10 +24,6 @@ Here are some of my favorite projects:
 ## GitHub Stats
 
 ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanFlipOffice&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanFlipOffice&layout=compact&theme=radical)
 
 ## Connect with Me
 
