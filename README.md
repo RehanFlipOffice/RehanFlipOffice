@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## About Me
 
-- 💼 Technical Specialist at Birlasoft
+- 💼 Manager at Capgemini
 - 🎓 Masters in Computer Science & Engineering from Sant Gadge Baba Amravati University
 - 🌟 Passionate about Open Source
 - 🌱 Currently learning Azure Cloud Services, Azure DevOps, and OpenAI
